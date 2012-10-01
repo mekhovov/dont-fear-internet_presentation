@@ -88,9 +88,9 @@ h1, h2, h3, h4, h5, h6{
 }
 
 .slide-text header {
-  line-height: 1.6em;
-  font-size:50px;
-  font-family:'destroy';
+  line-height: 1.1em;
+  font-size:100px;
+  font-family:'GoodDog';
   text-shadow: #111 2px 4px; 
   color:orange;
   margin-bottom: 20px;
@@ -128,8 +128,8 @@ section.topic {
   height: 100px;
 }
 .topic img {
-  width:200px; 
-  margin-bottom: -20px;
+  width:160px; 
+  margin-bottom: -30px;
   margin-top: 0px;
 }
 .note > section {
