@@ -156,3 +156,20 @@ section.topic {
   line-height: 1.2em;
   font-size:34px
 }
+
+.cats section .small {
+  margin: 0px;
+  padding: 0px;
+  font-size: 40px;
+  font-family:'Ubuntu-Title';
+  color: #888;
+  text-shadow: #fff 1px 2px;
+}
+.cats section  {
+  color: #777;
+  margin-top:-55px;
+  font-size:110px;
+  font-family:'GoodDog';
+  text-shadow: #111 2px 4px;
+  text-align:center;
+}
