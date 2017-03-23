@@ -4,3 +4,4 @@ Slides for RailsGirls event http://railsgirls.com/dnipropetrovsk.html
 
 
 http://dont-fear-internet.pp.ua
+"!https://beerpay.io/mekhovov/dont-fear-internet_presentation/badge.svg?style=beer-square!":https://beerpay.io/mekhovov/dont-fear-internet_presentation
