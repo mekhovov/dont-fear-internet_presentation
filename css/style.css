@@ -1,39 +1,39 @@
 
 @font-face {
   font-family: 'burnstown_dam';
-  src: url("/fonts/burnstown_dam.otf");
+  src: url("../fonts/burnstown_dam.otf");
 }
 @font-face {
   font-family: 'GoodDog';
-  src: url("/fonts/GoodDog.otf");
+  src: url("../fonts/GoodDog.otf");
 }
 @font-face {
   font-family: '1942';
-  src: url("/fonts/1942.ttf");
+  src: url("../fonts/1942.ttf");
 }
 @font-face {
   font-family: 'destroy';
-  src: url("/fonts/DESTROY_.ttf");
+  src: url("../fonts/DESTROY_.ttf");
 }
 @font-face {
   font-family: 'Ubuntu-Title';
-  src: url("/fonts/Ubuntu-Title.ttf");
+  src: url("../fonts/Ubuntu-Title.ttf");
 }
 @font-face {
   font-family: 'UglyQua';
-  src: url("/fonts/UglyQua.ttf");
+  src: url("../fonts/UglyQua.ttf");
 }
 @font-face {
   font-family: '3Dumb';
-  src: url("/fonts/3Dumb.ttf");
+  src: url("../fonts/3Dumb.ttf");
 }
 @font-face {
   font-family: '2Dumb';
-  src: url("/fonts/2Dumb.ttf");
+  src: url("../fonts/2Dumb.ttf");
 }
 @font-face {
   font-family: 'Qarmic_sans_Abridged';
-  src: url("/fonts/Qarmic_sans_Abridged.ttf");
+  src: url("../fonts/Qarmic_sans_Abridged.ttf");
 }
 
 
